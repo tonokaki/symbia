@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symbia株式会社</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Symbia株式会社</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ceo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ceo/</guid>
+      <description>&lt;h1 id=&#34;代表挨拶&#34;&gt;代表挨拶&lt;/h1&gt;&#xA;&lt;p&gt;Symbia株式会社のホームページへようこそ。私たちは最新のIT技術を活用して、企業の課題解決を支援します。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/company/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/company/</guid>
+      <description>&lt;h1 id=&#34;会社概要&#34;&gt;会社概要&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;会社名&lt;/strong&gt;：Symbia株式会社&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;所在地&lt;/strong&gt;：東京都中央区銀座６丁目１３番１６号 銀座Ｗａｌｌビル ＵＣＦ５F&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;設立&lt;/strong&gt;：2025年&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;事業内容&lt;/strong&gt;：ITコンサルティング、システム開発、技術支援&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;お問い合わせ&#34;&gt;お問い合わせ&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;メール&lt;/strong&gt;：sunny.flower.ken@gmail.com&lt;/p&gt;&#xA;&lt;p&gt;所在地：東京都中央区銀座６丁目１３番１６号&lt;/p&gt;&#xA;&lt;p&gt;お気軽にお問い合わせください。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h1 id=&#34;事業内容&#34;&gt;事業内容&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ITコンサルティング&lt;/li&gt;&#xA;&lt;li&gt;業務システム開発&lt;/li&gt;&#xA;&lt;li&gt;クラウド導入支援&lt;/li&gt;&#xA;&lt;li&gt;DX推進サービス&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

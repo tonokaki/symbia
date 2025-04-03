@@ -1,0 +1,4 @@
+baseURL = "https://your-github-username.github.io/symbia/"
+languageCode = "ja"
+title = "Symbia株式会社"
+theme = "ananke"
